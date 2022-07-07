@@ -7,4 +7,5 @@ eureka:
   instance:
     hostname: localhost
 
-days:10
+days:
+  num: 10
